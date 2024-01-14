@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @YanalShareef
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning ML\ Data Engineering
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 <!---
 YanalShareef/YanalShareef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
